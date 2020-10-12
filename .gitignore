@@ -17,6 +17,7 @@
 */**/node_modules
 
 # Project files
-gocity
+/gocity
 coverage.txt
 /vendor
+/dist
